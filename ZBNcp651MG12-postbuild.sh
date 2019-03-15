@@ -1,0 +1,1 @@
+"$4/jre/Contents/Home/bin/java" -jar "$4/plugins/com.silabs.external.jython_2.7.0.201811062302-9/external_jython/2.7.0/jython-2.7.0.jar"  "$(dirname "$0")/ZBNcp651MG12-postbuild.py" "$1" "$2" "" "$4/support/common/wine/opt/local/bin/wine cmd /C " "$3"
